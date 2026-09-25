@@ -61,8 +61,5 @@ script sonraki satırla devam eder.
 - `logs\Create_<tarih>.log` / `logs\Disable_<tarih>.log`: her işlemin zaman damgalı kaydı
 - `logs\ilk-parolalar_<tarih>.csv`: yeni kullanıcıların ilk parolaları
 
-> **Dikkat:** Parola dosyası düz metin içerir. Parolaları kullanıcılara
-> ilettikten sonra dosyayı silin. `logs` klasörü `.gitignore` ile GitHub'a
-> yüklenmez.
 
 Çıkış kodları: `0` sorunsuz, `1` CSV hatası, `2` bazı satırlarda hata var.
