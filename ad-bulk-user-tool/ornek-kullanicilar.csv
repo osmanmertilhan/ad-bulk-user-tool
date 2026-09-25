@@ -1,0 +1,5 @@
+﻿Ad;Soyad;KullaniciAdi;Departman;OU
+Ayşe;Yılmaz;ayilmaz;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Mehmet;Öztürk;mozturk;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Çağla;Şahin;csahin;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Gökhan;Ünal;gunal;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local

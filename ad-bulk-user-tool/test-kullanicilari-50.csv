@@ -1,0 +1,51 @@
+﻿Ad;Soyad;KullaniciAdi;Departman;OU
+Selin;Çelik;scelik;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+İrem;Kaya;ikaya;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Serkan;Şahin;ssahin;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Ebru;Kaya;ekaya;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Fatma;Kaya;fkaya;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Oğuz;Koç;okoc;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Emre;Demir;edemir;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Oğuz;Kaya;okaya;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Ahmet;Öztürk;aozturk;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Mehmet;Polat;mpolat;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Gizem;Kaya;gkaya;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Mehmet;Erdoğan;merdogan;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Burak;Koç;bkoc;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Ebru;Doğan;edogan;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Onur;Yıldız;oyildiz;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Ebru;Polat;epolat;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Can;Şahin;csahin;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Şeyma;Demir;sdemir;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Mehmet;Uçar;mucar;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Hakan;Erdoğan;herdogan;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Özge;Kılıç;okilic;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Ebru;Kurt;ekurt;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Burak;Öztürk;bozturk;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Şeyma;Öztürk;sozturk;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Deniz;Özdemir;dozdemir;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Kaan;Kurt;kkurt;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Tolga;Demir;tdemir;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Deniz;Koç;dkoc;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Elif;Özdemir;eozdemir;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Mehmet;Demir;mdemir;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Ebru;Kılıç;ekilic;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Şeyma;Aslan;saslan;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Hakan;Polat;hpolat;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Zeynep;Demir;zdemir;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Hakan;Demir;hdemir;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Kaan;Doğan;kdogan;Satın Alma;OU=SatinAlma,OU=Kullanicilar,DC=lab,DC=local
+Onur;Kurt;okurt;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Şeyma;Çetin;scetin;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Ayşe;Kurt;akurt;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Ahmet;Özdemir;aozdemir;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Fatma;Doğan;fdogan;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Kaan;Öztürk;kozturk;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Gizem;Özdemir;gozdemir;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
+Mustafa;Kurt;mkurt;Satış;OU=Satis,OU=Kullanicilar,DC=lab,DC=local
+Serkan;Arslan;sarslan;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Oğuz;Erdoğan;oerdogan;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Şeyma;Koç;skoc;İnsan Kaynakları;OU=InsanKaynaklari,OU=Kullanicilar,DC=lab,DC=local
+Onur;Çetin;ocetin;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Mustafa;Çelik;mcelik;Bilgi İşlem;OU=BilgiIslem,OU=Kullanicilar,DC=lab,DC=local
+Onur;Öztürk;oozturk;Muhasebe;OU=Muhasebe,OU=Kullanicilar,DC=lab,DC=local
